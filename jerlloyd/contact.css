@@ -1,0 +1,28 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+div {
+    text-align: right;
+    padding: 2rem;
+    text-emphasis-color: black;
+    border: none;
+    text-decoration: none;
+    font-size: 60px;
+
+}
+h1{
+    text-align: left;
+    font-size: 80px;
+}
+h2{
+    font-size: 40px;
+}
+body{
+    background-image: url(c.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(10px);
+}
